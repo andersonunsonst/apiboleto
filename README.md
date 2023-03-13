@@ -20,6 +20,15 @@ Para rodar a aplicação
 
 `php artisan serve`
 
+Acessar o endpoint
+
+`\api`
+
+`{
+  "bar_code": "string",
+  "payment_date": "string",
+}`
+
 # Duvidas 
 
 andersonunsonst@gmail.com 
